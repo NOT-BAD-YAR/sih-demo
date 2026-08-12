@@ -1,0 +1,50 @@
+SIH25244-User and Entity Behaviour
+Analytics for Internal Threat
+Identification
+· Organization: National Technical Research
+Organisation (NTRO)
+· Category: Software
+. Theme: Blockchain & Cybersecurity
+. Core area: Insider-threat detection and
+cybersecurity
+. Official portal: SIH problem-statement
+portal
+
+This problem is stronger for your team than a
+normal civic-reporting app because its central
+technology is not merely a webpage or API
+integration. You must build a
+behavioral-analysis engine that learns normal
+activity and identifies suspicious deviations.
+Modern UEBA systems analyze users, devices,
+servers, applications, and network activity
+using behavioral baselines and machine
+learning
+
+What Problem Does It Solve?
+
+Traditional security tools usually detect known
+threats using signatures or fixed rules. They
+may miss a legitimate employee whose account
+has been compromised or an insider who
+misuses valid access.
+
+For example:
+· An employee normally downloads 20 MB per
+day but suddenly downloads 5 GB.
+. A user logs in from two distant locations
+within a short time.
+· An account accesses files outside its usual
+department.
+. A dormant account becomes active at an
+unusual hour.
+· A server suddenly communicates with a
+device it has never contacted before.
+
+The key challenge is that the action may look
+legitimate by itself. The danger becomes visible
+only when the system understands the user's
+normal behavior and the context around the
+event
+
+checkpoint +1.
