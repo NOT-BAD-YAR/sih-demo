@@ -1,0 +1,45 @@
+﻿=== Phase 7 frontend gates (2026-08-14T02:10:30.3048633+05:30) ===
+
+--- npm run typecheck ---
+
+> dashboard@0.0.0 typecheck
+> tsc -b --noEmit
+
+
+--- npm run build ---
+
+> dashboard@0.0.0 build
+> tsc -b && vite build
+
+vite v8.2.1 building client environment for production...
+
+transforming...Ô£ô 48 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                   0.48 kB Ôöé gzip:  0.32 kB
+dist/assets/index-1VSXP0h5.css    8.25 kB Ôöé gzip:  2.40 kB
+dist/assets/index-ChUMguE4.js   271.03 kB Ôöé gzip: 82.39 kB
+
+Ô£ô built in 180ms
+
+--- npm run lint ---
+
+> dashboard@0.0.0 lint
+> oxlint
+
+src/lib/auth.tsx:51:17: warning react(only-export-components): Fast refresh only works when a file only exports components. Use a new file to share constants or functions between components.
+
+--- npm test ---
+
+> dashboard@0.0.0 test
+> vitest run
+
+
+ RUN  v4.1.10 U:/Projects/Insider-threat/dashboard
+
+
+ Test Files  5 passed (5)
+      Tests  20 passed (20)
+   Start at  02:10:37
+   Duration  3.07s (transform 439ms, setup 1.70s, import 694ms, tests 633ms, environment 9.15s)
+
