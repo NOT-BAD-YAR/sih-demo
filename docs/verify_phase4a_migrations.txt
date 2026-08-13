@@ -1,0 +1,2 @@
+﻿0001_ueba_full_schema -> 0002_feature_window_unique (head), feature_windows unique (entity_ref, window_start)
+<base> -> 0001_ueba_full_schema, ueba full schema

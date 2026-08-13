@@ -1,0 +1,29 @@
+﻿== kafka health ==
+health: {'kafka': True, 'topics': {'auth-events': {'exists': True, 'partitions': 4}, 'file-events': {'exists': True, 'partitions': 4}, 'network-events': {'exists': True, 'partitions': 4}, 'device-events': {'exists': True, 'partitions': 4}, 'privilege-events': {'exists': True, 'partitions': 2}}}
+
+== ensure topics ==
+topics: {'auth-events': 'exists', 'file-events': 'exists', 'network-events': 'exists', 'device-events': 'exists', 'privilege-events': 'exists'}
+
+== build events ==
+consumer joined group: True
+
+== produce (incl. 1 redelivered copy of the first event) ==
+produced 5 messages, flush remaining=0
+
+== consume (via IdempotentHandler) ==
+applied unique events : 4 / 4
+rejected duplicates   : 1
+first applied: {'event_id': 'a5e12eae-86c3-4a12-92eb-d2c864bb2b21', 'event_type': 'download', 'user_id': 'EMP001'}
+
+== lag report ==
+lag: {'auth-events:0': 9, 'auth-events:1': 0, 'auth-events:2': 8, 'auth-events:3': 0}
+produced event_id : 4d502498-3b31-4ea7-8c0d-5eb33ea8b3a8
+consumed          : True
+event_type matches: True
+delivered twice?   : True
+applied unique     : 1
+duplicates rejected: 1
+--- 3.7 lag (network backlog) ---
+produced 3 network events
+lag for group manual-never-consumed-builder2 on ['auth-events', 'file-events', 'network-events', 'device-events', 'privilege-events']
+lag: {'auth-events:0': 10, 'auth-events:1': 15, 'auth-events:2': 8, 'auth-events:3': 16, 'file-events:0': 0, 'file-events:1': 0, 'file-events:2': 0, 'file-events:3': 0, 'network-events:0': 0, 'network-events:1': 2, 'network-events:2': 1, 'network-events:3': 8, 'device-events:0': 0, 'device-events:1': 0, 'device-events:2': 0, 'device-events:3': 0, 'privilege-events:0': 0, 'privilege-events:1': 0}

@@ -1,0 +1,24 @@
+# Test tooling (all phases)
+pytest>=8.0
+pyyaml>=6.0
+
+# Analytics engine (Phases 4+)
+scikit-learn>=1.4
+numpy>=1.26
+
+# Streaming (Phase 2+)
+confluent-kafka>=2.3
+
+# Storage (Phase 3+)
+SQLAlchemy>=2.0
+alembic>=1.13
+psycopg2-binary>=2.9
+
+# API (Phase 6+)
+fastapi>=0.110
+uvicorn[standard]>=0.29
+python-jose[cryptography]>=3.3
+passlib[bcrypt]>=1.7
+
+# Dashboard (Phase 7+)
+# Node toolchain managed in dashboard/package.json

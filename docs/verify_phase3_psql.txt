@@ -1,0 +1,21 @@
+﻿ users 
+-------
+   100
+(1 row)
+
+ entities 
+----------
+       80
+(1 row)
+
+ events 
+--------
+      3
+(1 row)
+
+
+>docker compose ps
+NAME            IMAGE                COMMAND                  SERVICE    CREATED         STATUS                   PORTS
+ueba-kafka      apache/kafka:3.8.1   "/__cacert_entrypoinÔÇª"   kafka      4 minutes ago   Up 4 minutes (healthy)   0.0.0.0:9092->9092/tcp, [::]:9092->9092/tcp
+ueba-postgres   postgres:16-alpine   "docker-entrypoint.sÔÇª"   postgres   4 minutes ago   Up 4 minutes (healthy)   0.0.0.0:5432->5432/tcp, [::]:5432->5432/tcp
+

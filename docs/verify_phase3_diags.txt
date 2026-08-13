@@ -1,0 +1,48 @@
+﻿=== 3.1 alembic upgrade head (clean) ===
+[INFO]  [alembic.runtime.migration] Context impl PostgresqlImpl.
+[INFO]  [alembic.runtime.migration] Will assume transactional DDL.
+
+=== db reset (truncate) ===
+truncated OK
+
+=== 3.3 seed org (first run) ===
+seeded org: {'peer_groups': 7, 'users': 100, 'entities': 80}
+seeded demo accounts: 2
+
+=== 3.4 seed org (second run - idempotent) ===
+seeded org: {'peer_groups': 7, 'users': 0, 'entities': 0}
+seeded demo accounts: 0
+
+=== 3.2 / 3.5 / 3.6 / 3.7 / 3.8 / 3.9 (db + dao checks) ===
+present tables: 12
+['alembic_version', 'alerts', 'analyst_actions', 'behavioral_profiles', 'entities', 'feature_windows', 'ground_truth', 'incidents', 'peer_groups', 'raw_events', 'users', 'users_accounts']
+missing: []
+all_present: True
+users_with_peer_group: 100
+devices_with_owner: 50
+inserted: True
+read_back: login EMP001 Chennai 0
+first insert: True
+redelivered insert: False
+total events now: 2
+rejected by CHECK: CheckViolation
+raw_events indexes: ['ix_raw_events_actor', 'ix_raw_events_peer_ts', 'ix_raw_events_ts', 'ix_raw_events_user_ts', 'raw_events_pkey']
+
+=== 3.10 streaming persist (Kafka -> consumer -> raw_events, dupes absorbed) ===
+python.exe : %4|1786567226.533|GETPID|rdkafka#producer-3| [thrd:main]: Failed to acquire idempotence PID from broker 
+localhost:9092/1: Broker: Coordinator load in progress: retrying
+At line:17 char:10
++ $all += (& $py -m streaming persist --bootstrap localhost:9092 --grou ...
++          ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (%4|1786567226.5...gress: retrying:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+produced             : 2 messages (same event_id) -> auth-events
+persist outcomes     : [True, False]
+raw_events before    : 2
+raw_events after     : 3
+net_new_rows         : 1
+persisted event      : True
+persisted event_type : login
+persisted geo city   : Bangalore
+

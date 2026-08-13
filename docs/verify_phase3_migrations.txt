@@ -1,0 +1,10 @@
+﻿=== 3.1 alembic upgrade head ===
+python.exe : INFO  [alembic.runtime.migration] Context impl PostgresqlImpl.
+At line:2 char:48
++ ... + "`r`n" + (& $py -m alembic -c db/alembic.ini upgrade head 2>&1 | Ou ...
++                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (INFO  [alembic....PostgresqlImpl.:String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+INFO  [alembic.runtime.migration] Will assume transactional DDL.
+

@@ -1,0 +1,11 @@
+﻿== 3.1 topics ==
+{'auth-events': 4, 'file-events': 4, 'network-events': 4, 'device-events': 4, 'privilege-events': 2}
+login-> auth-events
+network_conn-> network-events
+privilege-> privilege-events
+key= b'EMP100'
+== 3.2 payload ==
+True login True True
+roundtrip back valid: True
+== 3.6 per-entity ordering ==
+True b'EMP100'

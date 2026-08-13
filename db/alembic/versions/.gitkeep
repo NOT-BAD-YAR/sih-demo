@@ -1,0 +1,2 @@
+# Alembic revision scripts. Phase 0: empty skeleton.
+# First migration ships in Phase 3 (event/identity/alert schema).

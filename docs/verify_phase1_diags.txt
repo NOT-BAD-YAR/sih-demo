@@ -1,0 +1,10 @@
+3.4: 100 50 20 10 ['DevOps', 'Developers', 'Finance', 'HR', 'Security']
+3.8: volume_spike EMP020 High
+3.8: impossible_travel EMP020 High
+3.8: out_of_scope EMP020 Medium
+3.8: dormant EMP006 Medium
+3.8: novel_peer SRV-05 Medium
+3.8: compromise_chain EMP020 Critical
+3.9: 5 True
+3.10: list True
+3.5 deterministic: True
