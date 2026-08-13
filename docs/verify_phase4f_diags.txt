@@ -1,0 +1,32 @@
+== 4F runner: AnalyticsRunner orchestration on real backfill (seed 42) ==
+
+runner fed wire payloads (normalize_payload) -> on_event -> flush; baseline
+history = 30-day backfill windows; global ML model trained (force=True).
+
+probe_runner.py:
+  after volume_spike:  {'dropped': 0, 'windows_closed': 1, 'alerts': 0, 'incidents': 1, 'escalations': 0}
+    incidents: [(90, 'Critical', 1)]
+  after compromise_chain: {'dropped': 0, 'windows_closed': 3, 'alerts': 0, 'incidents': 2, 'escalations': 0}
+    open incidents: 2
+      risk=90 [Critical] evidence=1 chain=['EMP045', 'LPT-045', 'build-server']
+      risk=83 [Critical] evidence=3 chain=['EMP033', 'SIEM', 'STORAGE.EXTERNAL.CLOUD', 'THREAT-DEVICE']
+
+probe_runner_all.py (each canonical anomaly through the runner):
+      volume_spike: incidents=1 alerts=0 top=risk 90 [Critical] evidence=1
+  impossible_travel: incidents=1 alerts=0 top=risk 76 [Critical] evidence=1
+      out_of_scope: incidents=1 alerts=0 top=risk 68 [High]    evidence=1
+           dormant: incidents=0 alerts=0  (cold start: no learned active window,
+                    the rule's documented 'unknown window -> do not judge' safety;
+                    detection proven in unit + integration tests with history)
+        novel_peer: incidents=1 alerts=0 top=risk 26 [Medium]  evidence=1
+  compromise_chain: incidents=1 alerts=0 top=risk 90 [Critical] evidence=3
+   cold-start incident: 26 Medium evidence 1
+
+Notes:
+  * multi-stage chain folds into ONE incident across entity boundaries
+    (actor + THREAT-DEVICE + STORAGE.EXTERNAL.CLOUD edges), 3 evidence refs;
+  * new/unknown entities (THREAT-DEVICE, fresh servers) are never judged
+    harshly: LOW confidence keeps them <= Medium;
+  * fixed Phase-4F bug: baseline was selected from the just-closed anomaly
+    window (_count=1 -> cold start -> rules dead, risk 7 Low instead of ~90);
+    _select_baseline now consumes the entity's PRE-anomaly history.

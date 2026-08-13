@@ -1,0 +1,12 @@
+== 4E correlation: compromise_chain on real backfill (seed 42) ==
+actor=EMP045 role=Tech Lead dept=Developers emp_confidence=HIGH
+  128b2f33        login sev=0.00 ml=0.64 -> risk=17.2 [Low] chain=['EMP045', 'THREAT-DEVICE']
+  5d9dc9f8          usb sev=0.00 ml=0.05 -> risk=0.4 [Low] chain=['THREAT-DEVICE', 'LPT-045']
+  81e74ef5  file_access sev=0.80 ml=0.64 -> risk=83.1 [Critical] chain=['EMP045', 'THREAT-DEVICE', 'hr_share']
+  6f03675a     download sev=1.00 ml=0.64 -> risk=90.2 [Critical] chain=['EMP045', 'THREAT-DEVICE', 'bulk']
+  1738f7d9       upload sev=0.80 ml=0.64 -> risk=75.6 [Critical] chain=['EMP045', 'THREAT-DEVICE', 'STORAGE.EXTERNAL.CLOUD']
+folded into ONE incident: id=True risk=90 [Critical]
+  entity_chain=['EMP045', 'LPT-045', 'STORAGE.EXTERNAL.CLOUD', 'THREAT-DEVICE', 'bulk', 'hr_share']
+  evidence_refs (5): ['128b2f33', '81e74ef5', '6f03675a', '1738f7d9', '5d9dc9f8']
+  related_alerts (5): 5 alerts
+  timeline span = 11 min (within one 30-min rolling window)

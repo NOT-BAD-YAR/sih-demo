@@ -1,0 +1,21 @@
+== 3.1 API surface ==
+ML_FEATURES: ['volume', 'event_count', 'active_hours_frac', 'location_count', 'location_dist_km', 'fail_rate', 'staleness_days']
+== 3.2 featurize ==
+shape: (1, 7); missing event_count -> 0.0
+== 3.3 train gate ==
+5 windows -> trained? False
+cache empty? True
+20 windows -> trained? True
+key present? True
+force 2 -> trained? True
+== 3.4 score normal vs spike ==
+normal anomaly = 0.3813; spike anomaly = 0.5267; spike>normal: True; bounded: True
+== 3.5 cold-start fallback ==
+sparse via peer_group:HR -> 0.44914
+no models at all -> 0.0
+== 3.6 rolling retrain ==
+retrained: ['global:__global__']
+== 3.7 real engine: planted volume-spike ==
+normal anomaly  min/median/max = 0.048/0.105/0.641
+planted volume-spike anomaly  = 0.647  (volume 4652881234)
+spike flagged (0.5+): True | above normal median: True

@@ -1,0 +1,5 @@
+volume_spike -> DETECTED | severity=1.000 | Volume 4.3 GB is 370488.4x the individual baseline mean of 12.3 KB/hour
+impossible_travel -> DETECTED | severity=1.000 | Impossible travel: Chennai to Delhi (1756 km apart) in 20 minutes implies 5267 km/h, above the 600 km/h physical limit
+out_of_scope -> DETECTED | severity=0.800 | EMP085 accessed hr_share, which is owned by HR  -  outside their Security department scope
+dormant -> DETECTED | severity=0.725 | Dormant account EMP034 activated after 45 days idle (threshold 30), at 02:00  -  outside the learned active window 08:00 - 18:00
+novel_peer -> DETECTED | severity=0.800 | SRV-04 contacted novel peer UNKNOWN-125  -  first time seen in baseline history

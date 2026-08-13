@@ -33,6 +33,11 @@ class Config:
     impossible_travel_speed_kmh: float = 600.0
     dormant_days: int = 30
 
+    # --- ML anomaly detection (4C) ---
+    ml_min_windows: int = 20
+    ml_contamination: float = 0.01
+    ml_n_estimators: int = 100
+
     # --- risk bands ---
     risk_band_high: int = 50
     risk_band_critical: int = 75
@@ -78,6 +83,9 @@ class Config:
             rule_volume_threshold_k=_float("RULE_VOLUME_THRESHOLD_K", 5.0),
             impossible_travel_speed_kmh=_float("IMPOSSIBLE_TRAVEL_SPEED_KMH", 600.0),
             dormant_days=_int("DORMANT_DAYS", 30),
+            ml_min_windows=_int("ML_MIN_WINDOWS", 20),
+            ml_contamination=_float("ML_CONTAMINATION", 0.01),
+            ml_n_estimators=_int("ML_N_ESTIMATORS", 100),
             risk_band_high=_int("RISK_BAND_HIGH", 50),
             risk_band_critical=_int("RISK_BAND_CRITICAL", 75),
             enable_rules=_bool("ENABLE_RULES", True),

@@ -1,0 +1,44 @@
+﻿.venv\Scripts\python.exe :  Container ueba-kafka Running 
+At line:1 char:1
++ .venv\Scripts\python.exe -X utf8 C:\Users\kmaha\AppData\Local\Temp\op ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: ( Container ueba-kafka Running :String) [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+ Container ueba-postgres Running 
+INFO  [alembic.runtime.migration] Context impl PostgresqlImpl.
+INFO  [alembic.runtime.migration] Will assume transactional DDL.
+=== 1. JWT auth ===
+  analyst login -> 200, access present: True
+  wrong password -> 401
+  admin login -> True
+
+=== 2. role separation (Phase 6 exit criterion) ===
+  analyst GET /admin/users -> 403 (expect 403)
+  admin   GET /admin/users -> 200 (expect 200)
+
+=== 3. overview + drill-down (real data) ===
+  overview: open_incidents=1 open_alerts=3 by_band={'Critical': 1}
+  drill-down EMP045: current={'risk': 89.0, 'band': 'Critical'} windows=1 baseline=False
+  worst window: ts=2026-02-01T10:00:00Z risk=0.0 band=Low explanation=...
+
+=== 3b. rich drill-down ÔÇö 30 stored windows + real individual baseline ===
+  drill-down EMP001: current={'risk': 0.0, 'band': 'Low'} windows=30 baseline_features=7
+  worst window: risk=0.0 band=Low explanation=...
+
+=== 4. incident workflow + evidence replay ===
+  assign -> 200 assigned assigned_to=bob
+  action force_mfa        -> 200 applied(simulated)
+  action revoke_session   -> 200 applied(simulated)
+  action isolate_device   -> 200 applied(simulated)
+  evidence replay -> 3 event bodies, first event_type: login
+  add note -> 200, text: response complete
+  close  -> 200 resolved
+
+=== 5. admin: create account + tune thresholds ===
+  create soc2 -> 200 role=analyst
+  soc2 login  -> 200
+  thresholds -> 200 {'DORMANCY_DAYS': 45, 'RISK_BAND_CRITICAL': 88, 'RULE_VOLUME_K': 6.0}
+
+=== 6. OpenAPI endpoints ===
+   17 paths: /admin/thresholds, /admin/users, /alerts, /alerts/{alert_id}, /auth/login, /auth/refresh, /entities, /entities/{entity_id}/risk, /health, /incidents, /incidents/{incident_id}, /incidents/{incident_id}/actions, /incidents/{incident_id}/evidence, /incidents/{incident_id}/notes, /overview, /users, /users/{entity_id}/risk

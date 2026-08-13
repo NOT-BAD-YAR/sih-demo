@@ -25,6 +25,10 @@ class TestConfigDefaults:
         assert cfg.rule_volume_threshold_k == 5.0
         assert cfg.impossible_travel_speed_kmh == 600.0
         assert cfg.dormant_days == 30
+        # ml (4C)
+        assert cfg.ml_min_windows == 20
+        assert cfg.ml_contamination == 0.01
+        assert cfg.ml_n_estimators == 100
         # risk
         assert cfg.risk_band_high == 50
         assert cfg.risk_band_critical == 75
@@ -56,6 +60,12 @@ class TestConfigEnvOverrides:
     def test_float_override(self):
         cfg = Config.from_env({"IMPOSSIBLE_TRAVEL_SPEED_KMH": "900.5"})
         assert cfg.impossible_travel_speed_kmh == 900.5
+
+    def test_ml_overrides(self):
+        cfg = Config.from_env({"ML_MIN_WINDOWS": "50", "ML_CONTAMINATION": "0.05", "ML_N_ESTIMATORS": "200"})
+        assert cfg.ml_min_windows == 50
+        assert cfg.ml_contamination == 0.05
+        assert cfg.ml_n_estimators == 200
 
     def test_bool_overrides(self):
         cfg = Config.from_env({"ENABLE_RULES": "false", "ENABLE_ML": "0"})

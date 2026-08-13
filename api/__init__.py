@@ -1,0 +1,1 @@
+"""API package — Phase 6 (FastAPI)."""

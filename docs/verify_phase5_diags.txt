@@ -1,0 +1,41 @@
+﻿=== 1. escalation tiering matrix (band x sensitivity) ===
+  band=Low       sensitivity=internal   -> alert_level=open      incident=False
+  band=Low       sensitivity=restricted -> alert_level=open      incident=False
+  band=Medium    sensitivity=internal   -> alert_level=open      incident=False
+  band=Medium    sensitivity=restricted -> alert_level=open      incident=False
+  band=High      sensitivity=internal   -> alert_level=assigned  incident=False
+  band=High      sensitivity=restricted -> alert_level=incident  incident=True
+  band=Critical  sensitivity=internal   -> alert_level=incident  incident=True
+  band=Critical  sensitivity=restricted -> alert_level=incident  incident=True
+
+=== 2. alert -> incident escalation (carries evidence + assignment) ===
+  alert: EMP045 severity=Critical risk=90 status=open
+  incident created: status=open evidence=['ev-1', 'ev-2'] by=alice
+
+=== 3. incident lifecycle (assign -> investigate -> note -> resolve) ===
+  assign      -> assigned       assigned_to=bob updated_by=alice
+  investigate -> investigating  updated_by=bob
+  add_note    -> notes.entries=1 by=bob
+  close       -> resolved       updated_by=bob
+
+=== 4. response playbook per detection type ===
+  chain              -> ['force_mfa', 'revoke_session', 'isolate_device']
+  dormant            -> ['force_mfa', 'notify_manager']
+  impossible_travel  -> ['force_mfa', 'revoke_session']
+  novel_peer         -> ['isolate_device', 'investigate']
+  out_of_scope       -> ['revoke_session', 'restrict_access']
+  volume_spike       -> ['restrict_access', 'notify_manager']
+
+=== 5. simulated side-effects ===
+  force_mfa        -> {'mfa_forced': True, 'next_login_requires': 'mfa'}
+  revoke_session   -> {'sessions_revoked': True}
+  restrict_access  -> {'access_restricted_to': 'managed_assets'}
+  isolate_device   -> {'isolated_entity': ['EMP045', 'THREAT-DEVICE']}
+  notify_manager   -> {'manager_notified': True}
+  investigate      -> {'investigation_opened': True}
+
+=== 6. RBAC ===
+  analyst.act        = True
+  analyst.manage     = False
+  admin.tune_thresh  = True
+  ghost.view         = False

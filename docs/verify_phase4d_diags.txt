@@ -1,0 +1,8 @@
+== 4D composed risk pipeline on real backfill (seed 42) ==
+    volume_spike sev=1.00 ml=0.65 anomaly=0.894 impact~sens=0.6 dept=1.0 conf=1.0 -> risk=90.5 [Critical]
+impossible_travel sev=1.00 ml=0.10 anomaly=0.731 impact~sens=0.3 dept=1.0 conf=1.0 -> risk=75.8 [Critical]
+    out_of_scope sev=0.80 ml=0.13 anomaly=0.599 impact~sens=0.6 dept=1.4 conf=1.0 -> risk=67.9 [High]
+         dormant sev=0.72 ml=0.05 anomaly=0.522 impact~sens=0.3 dept=1.0 conf=0.4 -> risk=26.0 [Medium]
+      novel_peer sev=0.80 ml=0.57 anomaly=0.730 impact~sens=0.3 dept=1.0 conf=0.4 -> risk=25.5 [Medium]
+cold-start gentleness: same volume-spike anomaly, sparse(conf 0.4)=31.5 < rich(conf 1.0)=63.7
+=> formula Risk = Anomaly x Impact x Confidence, +capped rule bonus; bands 0-24 Low/25-49 Med/50-74 High/75-100 Critical
