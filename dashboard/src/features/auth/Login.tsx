@@ -37,7 +37,7 @@ export function Login() {
         display: 'grid',
         placeItems: 'center',
         background:
-          'radial-gradient(900px 500px at 70% -10%, rgba(79,140,255,0.14), transparent 60%), var(--bg)',
+          'radial-gradient(900px 500px at 70% -10%, rgba(25,118,210,0.10), transparent 60%), var(--bg)',
       }}
     >
       <form

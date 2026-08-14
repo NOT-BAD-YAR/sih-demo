@@ -1,0 +1,7 @@
+﻿=== KAFKA BROKER WATERMARKS after agent live run ===
+       auth-events watermark_msgs=0
+       file-events watermark_msgs=6
+     device-events watermark_msgs=347
+    network-events watermark_msgs=0
+  privilege-events watermark_msgs=0
+

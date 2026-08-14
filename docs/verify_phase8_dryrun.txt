@@ -1,0 +1,1230 @@
+﻿2026-08-14 04:51:50,502 windows_agent WARNING reader security_log not started: unavailable at startup
+2026-08-14 04:51:50,503 windows_agent WARNING reader sysmon not started: unavailable at startup
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=System Idle Process topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=System topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=Secure System topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=Registry topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=smss.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=csrss.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=wininit.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=csrss.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=winlogon.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=services.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=LsaIso.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=lsass.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=fontdrvhost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=fontdrvhost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=WUDFHost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=dwm.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=IntelCpHDCPSvc.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=helperservice.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=NVDisplay.Container.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=AsusCertService.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=Memory Compression topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=igfxCUIServiceN.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=AsusOptimization.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=spoolsv.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=ArmouryCrateControlInterface.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=AsusPTPService.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=AsusAppService.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=ArmouryCrate.Service.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=AsusSoftwareManager.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=AsusSystemDiagnosis.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=AsusSystemAnalysis.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=DtsApo4Service.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=OneApp.IGCC.WinService.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=AsusSwitch.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=GameSDK.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=IntelAudioService.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=jhi_service.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=LightingService.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=mysqld.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=esif_uf.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=TbtP2pShortcutService.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=ROGLiveService.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=nvcontainer.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=RtkAudUService64.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=vmnetdhcp.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=vmnat.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=WMIRegistrationService.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=wslservice.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=wallpaperservice32_c.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=mysqld.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=vmware-authd.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=vmware-usbarbitrator64.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=NVDisplay.Container.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=wallpaper32.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=WmiPrvSE.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=WmiPrvSE.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=AsusOptimizationStartupTask.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=cowork-svc.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=sihost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=igfxEMN.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=taskhostw.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=AcPowerNotification.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=wlanext.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=AggregatorHost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=explorer.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=WUDFHost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=CrossDeviceResume.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=NgcIso.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=ArmourySocketServer.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=StartMenuExperienceHost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=CrossDeviceService.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=RuntimeBroker.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=Widgets.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=WidgetService.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=ArmouryCrate.UserSessionHelper.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=SearchIndexer.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=ctfmon.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=nvcontainer.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=nvcontainer.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=nvcontainer.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=RtkAudUService64.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=ArmouryCrate.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=RuntimeBroker.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=AsusSurvey.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=nvsphelper64.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=NVIDIA Overlay.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=TextInputHost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=asus_framework.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=NVIDIA Overlay.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=NVIDIA Overlay.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=NVIDIA Overlay.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=NVIDIA Overlay.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=SearchHost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=msedgewebview2.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=msedgewebview2.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=msedgewebview2.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=msedgewebview2.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=msedgewebview2.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=msedgewebview2.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=asus_framework.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=asus_framework.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=OneDrive.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=vmcompute.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=Telegram.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=BlueStacksServices.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=BlueStacksServices.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=BlueStacksServices.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=BlueStacksServices.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=AsusOSD.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=wpscloudsvr.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=PushNotificationsLongRunningTask.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=wps.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=promecefpluginhost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=promecefpluginhost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=wps.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=dllhost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=wps.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=wps.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=AsusSoftwareManagerAgent.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=unsecapp.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=msedgewebview2.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=msedgewebview2.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=msedgewebview2.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=msedgewebview2.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=msedgewebview2.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=msedgewebview2.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=FileCoAuth.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=chrome.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=chrome.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=chrome.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=chrome.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=chrome.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=chrome.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=OneDrive.Sync.Service.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=UserOOBEBroker.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=chrome.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=RuntimeBroker.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=SnippingTool.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=backgroundTaskHost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=RuntimeBroker.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=Antigravity IDE.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=Antigravity IDE.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=Antigravity IDE.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=Antigravity IDE.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=Antigravity IDE.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=language_server_windows_x64.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=cmd.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=node.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=Antigravity IDE.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=Antigravity IDE.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=Antigravity IDE.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=audiodg.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=cmd.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=node.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=Antigravity IDE.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=Antigravity IDE.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=Antigravity IDE.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=Antigravity IDE.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=powershell.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=powershell.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=powershell.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=powershell.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=language_server_windows_x64.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=cmd.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=node.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=cmd.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=node.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=Antigravity IDE.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=Antigravity IDE.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=pyrefly.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=opencode.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=uvx.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=uv.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=mcp-for-unity.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=python.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=python.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=chrome.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=chrome.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=chrome.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=chrome.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=taskhostw.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=dllhost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=chrome.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=Docker Desktop.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=com.docker.backend.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=com.docker.backend.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=com.docker.build.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=Docker Desktop.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=docker-sandbox.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=wsl.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=wsl.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=wsl.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=wsl.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=vmwp.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=vmmemWSL topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=Docker Desktop.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=Docker Desktop.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=dllhost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=docker-agent.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=Docker Desktop.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=dllhost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=wslrelay.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=wslhost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=wslhost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=wslhost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=wslhost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=msrdc.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=ShellHost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=chrome.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=chrome.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=chrome.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=chrome.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=chrome.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=chrome.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=powershell.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=python.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=python.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=powershell.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=tasklist.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:21:51.163109+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:21:56.909762+00:00      process TICKO target=tasklist.exe topic=device-events
+[agent] 2026-08-13T23:21:56.909762+00:00      process TICKO target=powershell.exe topic=device-events
+[agent] 2026-08-13T23:21:56.909762+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:21:56.909762+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:21:56.909762+00:00      process TICKO target=powershell.exe topic=device-events
+[agent] 2026-08-13T23:21:56.909762+00:00      process TICKO target=tasklist.exe topic=device-events
+[agent] 2026-08-13T23:21:56.909762+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:21:56.909762+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:22:02.560787+00:00      process TICKO target=tasklist.exe topic=device-events
+[agent] 2026-08-13T23:22:02.560787+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:22:02.560787+00:00      process TICKO target=powershell.exe topic=device-events
+[agent] 2026-08-13T23:22:02.560787+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:22:02.560787+00:00      process TICKO target=tasklist.exe topic=device-events
+[agent] 2026-08-13T23:22:02.560787+00:00      process TICKO target=powershell.exe topic=device-events
+[agent] 2026-08-13T23:22:02.560787+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:22:02.560787+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:22:09.107356+00:00      process TICKO target=tasklist.exe topic=device-events
+[agent] 2026-08-13T23:22:09.107356+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:22:09.107356+00:00      process TICKO target=powershell.exe topic=device-events
+[agent] 2026-08-13T23:22:09.107356+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:22:09.107356+00:00      process TICKO target=tasklist.exe topic=device-events
+[agent] 2026-08-13T23:22:09.107356+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:22:09.107356+00:00      process TICKO target=powershell.exe topic=device-events
+[agent] 2026-08-13T23:22:09.107356+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:22:14.690508+00:00      process TICKO target=powershell.exe topic=device-events
+[agent] 2026-08-13T23:22:14.690508+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:22:14.690508+00:00      process TICKO target=tasklist.exe topic=device-events
+[agent] 2026-08-13T23:22:14.690508+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:22:14.690508+00:00      process TICKO target=cmd.exe topic=device-events
+[agent] 2026-08-13T23:22:14.690508+00:00      process TICKO target=cmd.exe topic=device-events
+[agent] 2026-08-13T23:22:14.690508+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:22:14.690508+00:00      process TICKO target=tasklist.exe topic=device-events
+[agent] 2026-08-13T23:22:14.690508+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:22:14.690508+00:00      process TICKO target=powershell.exe topic=device-events
+[agent] 2026-08-13T23:22:14.690508+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:22:20.230125+00:00      process TICKO target=powershell.exe topic=device-events
+[agent] 2026-08-13T23:22:20.230125+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:22:20.230125+00:00      process TICKO target=tasklist.exe topic=device-events
+[agent] 2026-08-13T23:22:20.230125+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:22:20.230125+00:00      process TICKO target=powershell.exe topic=device-events
+[agent] 2026-08-13T23:22:20.230125+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:22:20.230125+00:00      process TICKO target=tasklist.exe topic=device-events
+[agent] 2026-08-13T23:22:20.230125+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:22:20.230125+00:00      process TICKO target=cmd.exe topic=device-events
+[agent] 2026-08-13T23:22:20.230125+00:00      process TICKO target=cmd.exe topic=device-events
+[agent] 2026-08-13T23:22:20.230125+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:22:25.732855+00:00      process TICKO target=powershell.exe topic=device-events
+[agent] 2026-08-13T23:22:25.732855+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:22:25.732855+00:00      process TICKO target=tasklist.exe topic=device-events
+[agent] 2026-08-13T23:22:25.732855+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:22:25.732855+00:00      process TICKO target=powershell.exe topic=device-events
+[agent] 2026-08-13T23:22:25.732855+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:22:25.732855+00:00      process TICKO target=tasklist.exe topic=device-events
+[agent] 2026-08-13T23:22:25.732855+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:22:31.258265+00:00      process TICKO target=powershell.exe topic=device-events
+[agent] 2026-08-13T23:22:31.258265+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:22:31.258265+00:00      process TICKO target=tasklist.exe topic=device-events
+[agent] 2026-08-13T23:22:31.258265+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:22:31.258265+00:00      process TICKO target=svchost.exe topic=device-events
+[agent] 2026-08-13T23:22:31.258265+00:00      process TICKO target=powershell.exe topic=device-events
+[agent] 2026-08-13T23:22:31.258265+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:22:31.258265+00:00      process TICKO target=tasklist.exe topic=device-events
+[agent] 2026-08-13T23:22:31.258265+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:22:36.741589+00:00      process TICKO target=powershell.exe topic=device-events
+[agent] 2026-08-13T23:22:36.741589+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:22:36.741589+00:00      process TICKO target=tasklist.exe topic=device-events
+[agent] 2026-08-13T23:22:36.741589+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:22:36.741589+00:00      process TICKO target=powershell.exe topic=device-events
+[agent] 2026-08-13T23:22:36.741589+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:22:36.741589+00:00      process TICKO target=tasklist.exe topic=device-events
+[agent] 2026-08-13T23:22:36.741589+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.amypocoder\extensions\github.copilot-1.270.0\dist\node_modules\@vscode\codicons\dist\codicon.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.amypocoder\extensions\vscjava.migrate-java-to-azure-0.5.1\assets\kb\artifacts.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.amypocoder\extensions\vscjava.migrate-java-to-azure-0.5.1\node_modules\@vscode\codicons\dist\codicon.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.amypocoder\extensions\vscjava.migrate-java-to-azure-0.5.1\node_modules\@vscode\codicons\_iconCloud\keywords.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.docker\mcp\mcp-toolkit.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.gemini\antigravity-browser-profile\first_party_sets.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.gemini\antigravity-browser-profile\Default\heavy_ad_intervention_opt_out.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.gemini\antigravity-browser-profile\GPUPersistentCache\DawnGraphiteCache\QFRPRRKRKWZNTFMPUJZIPW2HOZ5QE2WL\cache.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.gemini\antigravity-ide\conversations\049654c7-96df-4fd8-81de-f7c17b539a6e.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.gemini\antigravity-ide\conversations\072c283c-08d5-4c96-86b0-80d676d9588a.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.gemini\antigravity-ide\conversations\6e0f8a48-ca50-4404-b8ca-4aae36dc40e0.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.gemini\antigravity-ide\conversations\7ac56066-7e49-4d91-856c-d3ea7c391bf3.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.gemini\antigravity-ide\conversations\b37f8eea-eb2b-4f56-8c54-45aa7af5e837.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.gradle\caches\8.13\transforms\2913b8afe4715d12e594686c39a3893b\transformed\jetified-emoji2-1.2.0\annotations.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.gradle\caches\8.13\transforms\a253b16420e9ee1a1974e674204baa61\transformed\drawerlayout-1.0.0\annotations.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.gradle\caches\8.13\transforms\aac72809cb194a002ddca35567c7ba34\transformed\appcompat-1.6.1\annotations.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.gradle\caches\8.13\transforms\be77c46ed06dff3978acddc251705f26\transformed\core-1.9.0\annotations.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.gradle\caches\8.13\transforms\cda3c550e75e1cf384e39057b2491881\transformed\jetified-activity-1.6.0\annotations.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.gradle\caches\8.13\transforms\e14a4ca91be72a1c18deff96e2411cab\transformed\fragment-1.3.6\annotations.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.gradle\caches\8.14\transforms\0d24aed029183fd5e2270d3eb485f1b7\transformed\coordinatorlayout-1.0.0\annotations.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.gradle\caches\8.14\transforms\16f324fb41052c3a476fc9fe0599d609\transformed\core-1.17.0\annotations.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.gradle\caches\8.14\transforms\1d39b971987d0a6e959bee66e5a693f4\transformed\profileinstaller-1.4.0\annotations.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.gradle\caches\8.14\transforms\29c1a8e0d26e9dfc4d942bd02add9089\transformed\print-1.0.0\annotations.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.gradle\caches\8.14\transforms\2fe15869618166bec7a4ebb0858e4b32\transformed\fragment-1.7.1\annotations.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.gradle\caches\8.14\transforms\40be290fcc04cd5c7e5f9518e2c46815\transformed\recyclerview-1.0.0\annotations.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.gradle\caches\8.14\transforms\79708c3c2399c085230e700765294a23\transformed\transition-1.4.1\annotations.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.gradle\caches\8.14\transforms\80e2b593a18cc962ee406c54c75f341e\transformed\profileinstaller-1.3.1\annotations.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.gradle\caches\8.14\transforms\97d3a322ec5898dbd8ea2f4067b29355\transformed\drawerlayout-1.0.0\annotations.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.gradle\caches\8.14\transforms\9879f4aca419f39599370042e70581bf\transformed\appcompat-1.1.0\annotations.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.gradle\caches\8.14\transforms\bcbc599dc9c7e881908d355610b79ba5\transformed\core-1.13.1\annotations.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.gradle\caches\8.14\transforms\c57e9db491a1087986ef156c3bb2009e\transformed\exifinterface-1.4.1\annotations.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.gradle\caches\8.14\transforms\d2c235defb73fb1041113da11815a8af\transformed\swiperefreshlayout-1.0.0\annotations.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.gradle\caches\8.14\transforms\d84b76dd4fec4ea54af5715fdf8f7063\transformed\slidingpanelayout-1.2.0\annotations.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.gradle\caches\8.14\transforms\fff60932e02bf0085edd750f4e9d40e2\transformed\exifinterface-1.4.2\annotations.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.gradle\caches\9.1.0\transforms\003c613b11484095eac6aaa889d6544a\workspace\transformed\jetified-activity-1.6.0\annotations.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.gradle\caches\9.1.0\transforms\066c12c00859d02386bf97d2cf6432de\workspace\transformed\core-1.9.0\annotations.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.gradle\caches\9.1.0\transforms\0e0f209d6f0ac8b45f4650eaafb2afc6\workspace\transformed\fragment-1.3.6\annotations.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.gradle\caches\9.1.0\transforms\5510396b2a70e2e05c187fb9d1d3b0e9\workspace\transformed\drawerlayout-1.0.0\annotations.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.gradle\caches\9.1.0\transforms\9661b0ba661a170c3bd79b5ef59efda8\workspace\transformed\appcompat-1.6.1\annotations.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.gradle\caches\9.1.0\transforms\ced4c93479dcdd44b0e3012515f91336\workspace\transformed\jetified-emoji2-1.2.0\annotations.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.gradle\wrapper\dists\gradle-8.14-all\c2qonpi39x1mddn7hk5gh9iqj\gradle-8.14-all.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.local\share\opencode\opencode.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\.vscode\extensions\ms-vscode.cpptools-1.32.2-win32-x64\VCPkgHeadersDatabase.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\IconCache.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Android\Sdk\emulator\NOTICE.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Android\Sdk\ndk\28.2.13676358\simpleperf\doc\introduction.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Android\Sdk\platforms\android-36\data\annotations.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Android\Sdk\platforms\android-36\data\res\raw\fallback_categories.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Android\Sdk\platforms\android-36.1\data\annotations.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Android\Sdk\platforms\android-36.1\data\res\raw\fallback_categories.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\aws\toolkits\language-servers\AmazonQ\1.74.0\clients.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\aws\toolkits\language-servers\AmazonQ\1.74.0\servers.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\com.bezi.app\EBWebView\Default\EdgeJourneys\EdgeJourneys.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\com.bezi.app\EBWebView\GPUPersistentCache\DawnGraphiteCache\IJOGKRFPMZ7VTQMWF2G3DJTAKIRMX3AK\cache.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\ConnectedDevicesPlatform\652d065f059db707\ActivitiesCache.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Google\AndroidStudio2025.3.4\icon-cache-v1.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Google\AndroidStudio2025.3.4\caches\gemini\kb\dac.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Google\AndroidStudio2025.3.4\log\open-telemetry-metrics.2026-05-13-16-24-57.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Google\AndroidStudio2025.3.4\log\open-telemetry-metrics.2026-05-23-10-28-09.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Google\Chrome\User Data\first_party_sets.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Google\Chrome\User Data\Default\CdmStorage.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Google\Chrome\User Data\Default\declarative_performance_observer.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Google\Chrome\User Data\Default\heavy_ad_intervention_opt_out.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Google\Chrome\User Data\Default\Storage\ext\glic\66A834677761\declarative_performance_observer.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Google\Chrome\User Data\GPUPersistentCache\DawnGraphiteCache\MNKH2GB5WDS5GZ2BBXPYMFLF2FW5PAPZ\cache.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Google\Chrome\User Data\GPUPersistentCache\GPUCache\YTGNBSWHY7FXQOGW3B7XXSAF4R2QSLIY\cache.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Google\Chrome\User Data\Guest Profile\heavy_ad_intervention_opt_out.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Google\Chrome\User Data\Profile 1\declarative_performance_observer.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Google\Chrome\User Data\Profile 1\heavy_ad_intervention_opt_out.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Google\Chrome\User Data\Profile 1\Storage\ext\glic\66A834677761\declarative_performance_observer.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Google\Chrome\User Data\Profile 3\heavy_ad_intervention_opt_out.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Google\Chrome\User Data\Profile 4\declarative_performance_observer.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Google\Chrome\User Data\Profile 4\heavy_ad_intervention_opt_out.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Google\Chrome\User Data\Profile 4\Storage\ext\glic\66A834677761\declarative_performance_observer.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Google\Chrome\User Data\Profile 6\declarative_performance_observer.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Google\Chrome\User Data\Profile 6\heavy_ad_intervention_opt_out.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Google\Chrome\User Data\Profile 6\Storage\ext\glic\66A834677761\declarative_performance_observer.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Google\Chrome\User Data\Profile 7\heavy_ad_intervention_opt_out.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Google\Chrome\User Data\Profile 8\heavy_ad_intervention_opt_out.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Google\Chrome\User Data\Profile 9\declarative_performance_observer.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Google\Chrome\User Data\Profile 9\heavy_ad_intervention_opt_out.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Google\Chrome\User Data\Profile 9\Storage\ext\glic\66A834677761\declarative_performance_observer.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Google\Chrome\User Data\System Profile\declarative_performance_observer.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Cloud Files\userdata\qing\datacache.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Cloud Files\userdata\qing\info.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Cloud Files\userdata\qing\qing.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\addons\knewdocs\res\blanktemplate\blank_official.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\addons\kwppbeautify\res\cardgroup\cardIcons.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\addons\kwppbeautify\res\cardgroup\convert\convertInfo.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\addons\kwppbeautify\res\cardgroup\styles\assets_lined.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\addons\kwppbeautify\res\cardgroup\styles\assets_plain.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\addons\kwppbeautify\res\cardgroup\styles\assets_rounded.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\addons\kwppbeautify\res\cardgroup\styles\assets_shadowed.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\addons\kwppbeautify\res\cardgroup\styles\assets_square.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\addons\kwppbeautify\res\cardgroup\styles\assets_standard.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\addons\kwppbeautify\res\figmares\base.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\addons\kwppcopilot\res\newlayoutres\layoutbase.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\default\resource\xlsx\Kingsoft_Et_Area.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\default\resource\xlsx\Kingsoft_Et_Bar.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\default\resource\xlsx\Kingsoft_Et_BoxWhisker.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\default\resource\xlsx\Kingsoft_Et_Bubble.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\default\resource\xlsx\Kingsoft_Et_Funnel.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\default\resource\xlsx\Kingsoft_Et_Histogram.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\default\resource\xlsx\Kingsoft_Et_Pareto.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\default\resource\xlsx\Kingsoft_Et_Pie.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\default\resource\xlsx\Kingsoft_Et_Scatter.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\default\resource\xlsx\Kingsoft_Et_StockA.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\default\resource\xlsx\Kingsoft_Et_StockB.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\default\resource\xlsx\Kingsoft_Et_StockC.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\default\resource\xlsx\Kingsoft_Et_StockD.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\default\resource\xlsx\Kingsoft_Et_Sunburst.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\default\resource\xlsx\Kingsoft_Et_Treemap.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\default\resource\xlsx\Kingsoft_Et_Waterfall.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\default\resource\xlsx\Kingsoft_Et_WebShape.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\default\templates\mergefield.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\default\templates\printTemplate.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\es_MX\resource\xlsx\Kingsoft_Et_Area.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\es_MX\resource\xlsx\Kingsoft_Et_Bar.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\es_MX\resource\xlsx\Kingsoft_Et_BoxWhisker.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\es_MX\resource\xlsx\Kingsoft_Et_Bubble.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\es_MX\resource\xlsx\Kingsoft_Et_Funnel.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\es_MX\resource\xlsx\Kingsoft_Et_Histogram.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\es_MX\resource\xlsx\Kingsoft_Et_Pareto.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\es_MX\resource\xlsx\Kingsoft_Et_Pie.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\es_MX\resource\xlsx\Kingsoft_Et_Scatter.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\es_MX\resource\xlsx\Kingsoft_Et_StockA.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\es_MX\resource\xlsx\Kingsoft_Et_StockB.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\es_MX\resource\xlsx\Kingsoft_Et_StockC.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\es_MX\resource\xlsx\Kingsoft_Et_StockD.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\es_MX\resource\xlsx\Kingsoft_Et_Sunburst.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\es_MX\resource\xlsx\Kingsoft_Et_Treemap.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\es_MX\resource\xlsx\Kingsoft_Et_Waterfall.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\ja_JP\resource\xlsx\Kingsoft_Et_Area.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\ja_JP\resource\xlsx\Kingsoft_Et_Bar.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\ja_JP\resource\xlsx\Kingsoft_Et_BoxWhisker.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\ja_JP\resource\xlsx\Kingsoft_Et_Bubble.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\ja_JP\resource\xlsx\Kingsoft_Et_Funnel.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\ja_JP\resource\xlsx\Kingsoft_Et_Histogram.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\ja_JP\resource\xlsx\Kingsoft_Et_Pareto.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\ja_JP\resource\xlsx\Kingsoft_Et_Pie.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\ja_JP\resource\xlsx\Kingsoft_Et_Scatter.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\ja_JP\resource\xlsx\Kingsoft_Et_StockA.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\ja_JP\resource\xlsx\Kingsoft_Et_StockB.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\ja_JP\resource\xlsx\Kingsoft_Et_StockC.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\ja_JP\resource\xlsx\Kingsoft_Et_StockD.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\ja_JP\resource\xlsx\Kingsoft_Et_Sunburst.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\ja_JP\resource\xlsx\Kingsoft_Et_Treemap.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\ja_JP\resource\xlsx\Kingsoft_Et_Waterfall.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\ja_JP\templates\mergefield.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\ja_JP\templates\newfile.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_Area.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_Bar.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_BoxWhisker.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_Bubble.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_Funnel.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_Histogram.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_Pareto.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_Pie.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_Scatter.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_StockA.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_StockB.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_StockC.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_StockD.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_Sunburst.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_Treemap.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_Waterfall.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_WebShape.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\zh_CN\templates\mergefield.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\zh_CN\templates\newfile.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\zh_CN\templates\coverpage\buildin\lengthwise\lengthwise\lengthwise1.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\zh_CN\templates\coverpage\buildin\lengthwise\lengthwise\lengthwise2.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\zh_CN\templates\coverpage\buildin\lengthwise\lengthwise\lengthwise3.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\zh_CN\templates\coverpage\buildin\lengthwise\lengthwise\lengthwise4.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\zh_CN\templates\coverpage\buildin\transverse\transverse\transverse1.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.27458\office6\mui\zh_CN\templates\coverpage\buildin\transverse\transverse\transverse2.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\addons\knewdocs\res\blanktemplate\blank_official.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\addons\kwppbeautify\res\cardgroup\cardIcons.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\addons\kwppbeautify\res\cardgroup\convert\convertInfo.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\addons\kwppbeautify\res\cardgroup\styles\assets_lined.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\addons\kwppbeautify\res\cardgroup\styles\assets_plain.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\addons\kwppbeautify\res\cardgroup\styles\assets_rounded.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\addons\kwppbeautify\res\cardgroup\styles\assets_shadowed.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\addons\kwppbeautify\res\cardgroup\styles\assets_square.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\addons\kwppbeautify\res\cardgroup\styles\assets_standard.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\addons\kwppbeautify\res\figmares\base.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\addons\kwppcopilot\res\newlayoutres\layoutbase.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\default\resource\xlsx\Kingsoft_Et_Area.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\default\resource\xlsx\Kingsoft_Et_Bar.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\default\resource\xlsx\Kingsoft_Et_BoxWhisker.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\default\resource\xlsx\Kingsoft_Et_Bubble.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\default\resource\xlsx\Kingsoft_Et_Funnel.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\default\resource\xlsx\Kingsoft_Et_Histogram.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\default\resource\xlsx\Kingsoft_Et_Pareto.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\default\resource\xlsx\Kingsoft_Et_Pie.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\default\resource\xlsx\Kingsoft_Et_Scatter.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\default\resource\xlsx\Kingsoft_Et_StockA.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\default\resource\xlsx\Kingsoft_Et_StockB.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\default\resource\xlsx\Kingsoft_Et_StockC.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\default\resource\xlsx\Kingsoft_Et_StockD.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\default\resource\xlsx\Kingsoft_Et_Sunburst.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\default\resource\xlsx\Kingsoft_Et_Treemap.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\default\resource\xlsx\Kingsoft_Et_Waterfall.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\default\resource\xlsx\Kingsoft_Et_WebShape.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\default\templates\mergefield.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\default\templates\printTemplate.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\es_MX\resource\xlsx\Kingsoft_Et_Area.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\es_MX\resource\xlsx\Kingsoft_Et_Bar.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\es_MX\resource\xlsx\Kingsoft_Et_BoxWhisker.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\es_MX\resource\xlsx\Kingsoft_Et_Bubble.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\es_MX\resource\xlsx\Kingsoft_Et_Funnel.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\es_MX\resource\xlsx\Kingsoft_Et_Histogram.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\es_MX\resource\xlsx\Kingsoft_Et_Pareto.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\es_MX\resource\xlsx\Kingsoft_Et_Pie.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\es_MX\resource\xlsx\Kingsoft_Et_Scatter.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\es_MX\resource\xlsx\Kingsoft_Et_StockA.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\es_MX\resource\xlsx\Kingsoft_Et_StockB.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\es_MX\resource\xlsx\Kingsoft_Et_StockC.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\es_MX\resource\xlsx\Kingsoft_Et_StockD.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\es_MX\resource\xlsx\Kingsoft_Et_Sunburst.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\es_MX\resource\xlsx\Kingsoft_Et_Treemap.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\es_MX\resource\xlsx\Kingsoft_Et_Waterfall.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\ja_JP\resource\xlsx\Kingsoft_Et_Area.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\ja_JP\resource\xlsx\Kingsoft_Et_Bar.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\ja_JP\resource\xlsx\Kingsoft_Et_BoxWhisker.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\ja_JP\resource\xlsx\Kingsoft_Et_Bubble.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\ja_JP\resource\xlsx\Kingsoft_Et_Funnel.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\ja_JP\resource\xlsx\Kingsoft_Et_Histogram.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\ja_JP\resource\xlsx\Kingsoft_Et_Pareto.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\ja_JP\resource\xlsx\Kingsoft_Et_Pie.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\ja_JP\resource\xlsx\Kingsoft_Et_Scatter.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\ja_JP\resource\xlsx\Kingsoft_Et_StockA.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\ja_JP\resource\xlsx\Kingsoft_Et_StockB.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\ja_JP\resource\xlsx\Kingsoft_Et_StockC.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\ja_JP\resource\xlsx\Kingsoft_Et_StockD.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\ja_JP\resource\xlsx\Kingsoft_Et_Sunburst.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\ja_JP\resource\xlsx\Kingsoft_Et_Treemap.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\ja_JP\resource\xlsx\Kingsoft_Et_Waterfall.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\ja_JP\templates\mergefield.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\ja_JP\templates\newfile.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_Area.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_Bar.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_BoxWhisker.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_Bubble.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_Funnel.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_Histogram.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_Pareto.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_Pie.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_Scatter.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_StockA.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_StockB.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_StockC.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_StockD.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_Sunburst.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_Treemap.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_Waterfall.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\zh_CN\resource\xlsx\Kingsoft_Et_WebShape.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\zh_CN\templates\mergefield.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\zh_CN\templates\newfile.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\zh_CN\templates\coverpage\buildin\lengthwise\lengthwise\lengthwise1.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\zh_CN\templates\coverpage\buildin\lengthwise\lengthwise\lengthwise2.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\zh_CN\templates\coverpage\buildin\lengthwise\lengthwise\lengthwise3.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\zh_CN\templates\coverpage\buildin\lengthwise\lengthwise\lengthwise4.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\zh_CN\templates\coverpage\buildin\transverse\transverse\transverse1.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Kingsoft\WPS Office\12.1.0.28032\office6\mui\zh_CN\templates\coverpage\buildin\transverse\transverse\transverse2.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\AppActions\ActionFXCache.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Copilot\User Data\Default\heavy_ad_intervention_opt_out.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Copilot\User Data\Default\load_statistics.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Copilot\User Data\Default\EdgeEDrop\EdgeEDropSQLite.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Copilot\User Data\Default\EdgeHubAppUsage\EdgeHubAppUsageSQLite.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Copilot\User Data\Default\EdgeJourneys\EdgeJourneys.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Copilot\User Data\GPUPersistentCache\DawnGraphiteCache\WRJTYMYAB73RC6HTXXLKRS2FEZVUG6PP\cache.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Edge\User Data\first_party_sets.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Edge\User Data\Default\declarative_performance_observer.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Edge\User Data\Default\heavy_ad_intervention_opt_out.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Edge\User Data\Default\load_statistics.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Edge\User Data\Default\EdgeEDrop\EdgeEDropSQLite.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Edge\User Data\Default\EdgeHubAppUsage\EdgeHubAppUsageSQLite.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Edge\User Data\Default\EdgeJourneys\EdgeJourneys.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Edge\User Data\GPUPersistentCache\DawnGraphiteCache\MNKH2GB5WDS5GZ2BBXPYMFLF2FW5PAPZ\cache.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Olk\EBWebView\Default\declarative_performance_observer.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Olk\EBWebView\Default\heavy_ad_intervention_opt_out.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Olk\EBWebView\Default\EdgeJourneys\EdgeJourneys.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Olk\EBWebView\GPUPersistentCache\DawnGraphiteCache\LPTHQRVLKXGIEZMYSCEI4GJ3GR45PVJ3\cache.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\OneDrive\ListSync\Business1\settings\Microsoft.CDN.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\OneDrive\ListSync\Business1\settings\Microsoft.FilesOnDemand.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\OneDrive\ListSync\Business1\settings\Microsoft.FileUsageSync.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\OneDrive\ListSync\Business1\settings\Microsoft.ListSync.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\OneDrive\ListSync\Business1\settings\Microsoft.ListSync.Settings.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\OneDrive\ListSync\Common\settings\Microsoft.CDN.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\OneDrive\ListSync\Common\settings\Microsoft.CommonMediaCache.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\OneDrive\ListSync\Common\settings\Microsoft.ImportDrive.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\OneDrive\ListSync\Common\settings\Microsoft.ListSync.Thumbnails.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\OneDrive\ListSync\Common\settings\Microsoft.LocalContent.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\OneDrive\ListSync\Consumer_652d065f059db707\settings\Microsoft.FileUsageSync.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\OneDrive\ListSync\Consumer_652d065f059db707\settings\Microsoft.ListSync.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\OneDrive\ListSync\Consumer_652d065f059db707\settings\Microsoft.ListSync.Settings.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\OneDrive\ListSync\Consumer_652d065f059db707\settings\Microsoft.Media.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\OneDrive\ListSync\UnAuthenticated\settings\Microsoft.ListSync.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\OneDrive\ListSync\UnAuthenticated\settings\Microsoft.ListSync.Settings.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\OneDrive\OD4\EBWebView\Default\EdgeJourneys\EdgeJourneys.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\OneDrive\OD4\EBWebView\GPUPersistentCache\DawnGraphiteCache\WRJTYMYAB73RC6HTXXLKRS2FEZVUG6PP\cache.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\OneDrive\settings\CxP.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\OneDrive\settings\FileSyncFSCache.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\OneDrive\settings\Personal\CxP.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\OneDrive\settings\Personal\KFM.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\OneDrive\settings\Personal\OCSI.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\OneDrive\settings\Personal\SafeDelete.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\OneDrive\settings\Personal\SettingsDatabase.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\OneDrive\settings\Personal\SyncEngineDatabase.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\OneDrive\settings\Personal\UXDatabase.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\VisualStudio\18.0_36abd673\IntelliCodeModels\apiByExample.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\vscode-cpptools\6d7c576af7ef6e96b4d0391feeec8406\.BROWSE.VC.DB topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\vscode-cpptools\7ca17e46bb6232ca47056608c3e17e81\.BROWSE.VC.DB topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\vscode-cpptools\976ac2c8d205e2bdf8709c22d1ad7807\.BROWSE.VC.DB topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\vscode-cpptools\f7fbfdbeae50a49148e913e7e78ae28a\.BROWSE.VC.DB topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Windows\Caches\cversions.1.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Windows\Caches\cversions.3.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Windows\Caches\{2D8D581B-B905-4D30-88C9-B63C603DA134}.3.ver0x0000000000000001.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Windows\Caches\{3DA71D5A-20CC-432F-A115-DFE92379E91F}.3.ver0x000000000000026c.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Windows\Caches\{AFBF9F1A-8EE8-4C77-AF34-C647E37CA0D9}.1.ver0x000000000000009d.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Windows\Explorer\iconcache_1280.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Windows\Explorer\iconcache_16.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Windows\Explorer\iconcache_1920.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Windows\Explorer\iconcache_256.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Windows\Explorer\iconcache_2560.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Windows\Explorer\iconcache_32.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Windows\Explorer\iconcache_48.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Windows\Explorer\iconcache_768.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Windows\Explorer\iconcache_96.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Windows\Explorer\iconcache_custom_stream.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Windows\Explorer\iconcache_exif.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Windows\Explorer\iconcache_idx.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Windows\Explorer\iconcache_sr.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Windows\Explorer\iconcache_wide.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Windows\Explorer\iconcache_wide_alternate.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1280.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Windows\Explorer\thumbcache_16.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1920.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Windows\Explorer\thumbcache_2560.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Windows\Explorer\thumbcache_32.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Windows\Explorer\thumbcache_48.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Windows\Explorer\thumbcache_768.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Windows\Explorer\thumbcache_96.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Windows\Explorer\thumbcache_custom_stream.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Windows\Explorer\thumbcache_exif.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Windows\Explorer\thumbcache_sr.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Windows\Explorer\thumbcache_wide.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Windows\Explorer\thumbcache_wide_alternate.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\Windows\Notifications\wpndatabase.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Microsoft\WinGet\Packages\hpjansson.Chafa_Microsoft.Winget.Source_8wekyb3d8bbwe\hpjansson.Chafa_Microsoft.Winget.Source_8wekyb3d8bbwe.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\NVIDIA Corporation\NVIDIA App\CefCache\first_party_sets.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\NVIDIA Corporation\NVIDIA App\CefCache\Default\heavy_ad_intervention_opt_out.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\NVIDIA Corporation\NVIDIA App\NvBackend\ApplicationOntology\data\fingerprint.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\NVIDIA Corporation\NVIDIA App\NvBackend\DAO\38ac95c3b38c2ff2d5fcd40ad975384177a91a9b051ef8423fbf46026abaf6d4\fingerprint.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\NVIDIA Corporation\NVIDIA Overlay\CefCache\first_party_sets.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\NVIDIA Corporation\NVIDIA Overlay\CefCache\Default\heavy_ad_intervention_opt_out.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\B9ECED6F.ArmouryCrate_qmba6cd70vzyy\LocalState\EBWebView\Default\heavy_ad_intervention_opt_out.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\B9ECED6F.ArmouryCrate_qmba6cd70vzyy\LocalState\EBWebView\Default\EdgeJourneys\EdgeJourneys.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\B9ECED6F.ArmouryCrate_qmba6cd70vzyy\LocalState\EBWebView\GPUPersistentCache\DawnGraphiteCache\WRJTYMYAB73RC6HTXXLKRS2FEZVUG6PP\cache.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\Clipchamp.Clipchamp_yxz26nhyzhsrt\LocalState\EBWebView\Default\heavy_ad_intervention_opt_out.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\Clipchamp.Clipchamp_yxz26nhyzhsrt\LocalState\EBWebView\Default\EdgeJourneys\EdgeJourneys.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\LocalState\Microsoft.Winget.Source_8wekyb3d8bbwe\installed.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\Microsoft.DesktopAppInstaller_8wekyb3d8bbwe\LocalState\StoreEdgeFD\installed.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\Microsoft.MicrosoftSolitaireCollection_8wekyb3d8bbwe\LocalState\Cache\fonts\fonts.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\Microsoft.MicrosoftSolitaireCollection_8wekyb3d8bbwe\LocalState\EBWebView\Default\heavy_ad_intervention_opt_out.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\Microsoft.MicrosoftSolitaireCollection_8wekyb3d8bbwe\LocalState\EBWebView\Default\EdgeJourneys\EdgeJourneys.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\Microsoft.MicrosoftSolitaireCollection_8wekyb3d8bbwe\LocalState\EBWebView\GPUPersistentCache\DawnGraphiteCache\QFRPRRKRKWZNTFMPUJZIPW2HOZ5QE2WL\cache.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\Microsoft.MicrosoftSolitaireCollection_8wekyb3d8bbwe\LocalState\vungleDiskCache\20961a50-cd16-41b5-ac15-58eddf2811a7.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\Microsoft.MicrosoftSolitaireCollection_8wekyb3d8bbwe\LocalState\VungleSDK\ac9e03eb16042c5e6718f85bbd06fc9c\20961a50-cd16-41b5-ac15-58eddf2811a7.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\Microsoft.WindowsStore_8wekyb3d8bbwe\LocalState\store.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\Microsoft.WindowsStore_8wekyb3d8bbwe\LocalState\EBWebView\Default\EdgeJourneys\EdgeJourneys.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\Microsoft.WindowsStore_8wekyb3d8bbwe\LocalState\EBWebView\GPUPersistentCache\DawnGraphiteCache\WRJTYMYAB73RC6HTXXLKRS2FEZVUG6PP\cache.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\Microsoft.ZuneMusic_8wekyb3d8bbwe\LocalState\MediaPlayer.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalState\EBWebView\Default\declarative_performance_observer.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalState\EBWebView\Default\heavy_ad_intervention_opt_out.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalState\EBWebView\Default\EdgeJourneys\EdgeJourneys.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalState\EBWebView\GPUPersistentCache\DawnGraphiteCache\MNKH2GB5WDS5GZ2BBXPYMFLF2FW5PAPZ\cache.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalState\Search\AppsIndex.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalState\Search\settings.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\LocalState\SearchExt\t.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\declarative_performance_observer.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\heavy_ad_intervention_opt_out.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\Default\EdgeJourneys\EdgeJourneys.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\MicrosoftWindows.Client.WebExperience_cw5n1h2txyewy\LocalState\EBWebView\GPUPersistentCache\DawnGraphiteCache\MNKH2GB5WDS5GZ2BBXPYMFLF2FW5PAPZ\cache.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\MSTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams\EBWebView\Default\heavy_ad_intervention_opt_out.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\MSTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams\EBWebView\Default\EdgeJourneys\EdgeJourneys.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\MSTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams\EBWebView\GPUPersistentCache\DawnGraphiteCache\4NKVHR4EC6BINKNWJV25JYUXV4UNF3DT\cache.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\MSTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams\EBWebView\WV2Profile_tfl\heavy_ad_intervention_opt_out.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\MSTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams\EBWebView\WV2Profile_tfl\EdgeJourneys\EdgeJourneys.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\MSTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams\EBWebView\WV2Profile_tfw\heavy_ad_intervention_opt_out.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\MSTeams_8wekyb3d8bbwe\LocalCache\Microsoft\MSTeams\EBWebView\WV2Profile_tfw\EdgeJourneys\EdgeJourneys.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\numpy\random\tests\data\mt19937-testset-1.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\numpy\random\tests\data\mt19937-testset-2.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\numpy\random\tests\data\pcg64-testset-1.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\numpy\random\tests\data\pcg64-testset-2.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\numpy\random\tests\data\pcg64dxsm-testset-1.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\numpy\random\tests\data\pcg64dxsm-testset-2.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\numpy\random\tests\data\philox-testset-1.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\numpy\random\tests\data\philox-testset-2.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\numpy\random\tests\data\sfc64-testset-1.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\numpy\random\tests\data\sfc64-testset-2.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\numpy\_core\tests\data\umath-validation-set-arccos.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\numpy\_core\tests\data\umath-validation-set-arccosh.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\numpy\_core\tests\data\umath-validation-set-arcsin.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\numpy\_core\tests\data\umath-validation-set-arcsinh.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\numpy\_core\tests\data\umath-validation-set-arctan.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\numpy\_core\tests\data\umath-validation-set-arctanh.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\numpy\_core\tests\data\umath-validation-set-cbrt.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\numpy\_core\tests\data\umath-validation-set-cos.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\numpy\_core\tests\data\umath-validation-set-cosh.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\numpy\_core\tests\data\umath-validation-set-exp.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\numpy\_core\tests\data\umath-validation-set-exp2.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\numpy\_core\tests\data\umath-validation-set-expm1.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\numpy\_core\tests\data\umath-validation-set-log.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\numpy\_core\tests\data\umath-validation-set-log10.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\numpy\_core\tests\data\umath-validation-set-log1p.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\numpy\_core\tests\data\umath-validation-set-log2.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\numpy\_core\tests\data\umath-validation-set-sin.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\numpy\_core\tests\data\umath-validation-set-sinh.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\numpy\_core\tests\data\umath-validation-set-tan.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\numpy\_core\tests\data\umath-validation-set-tanh.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\pkg_resources\tests\data\my-test-package-zip\my-test-package.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\scipy\signal\tests\data\GLB.Ts+dSST.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\sklearn\datasets\data\breast_cancer.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\sklearn\datasets\data\iris.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\sklearn\datasets\data\linnerud_exercise.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\sklearn\datasets\data\linnerud_physiological.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\sklearn\datasets\data\wine_data.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Packages\windows.immersivecontrolpanel_cw5n1h2txyewy\LocalState\Search\settings.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Programs\Microsoft VS Code\0958016b2a\resources\app\node_modules\@vscode\codicons\dist\codicon.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Programs\Microsoft VS Code\0958016b2a\resources\app\node_modules\@vscode\codicons\_iconCloud\categories.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Programs\Microsoft VS Code\0958016b2a\resources\app\node_modules\@vscode\codicons\_iconCloud\descriptions.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Programs\Microsoft VS Code\0958016b2a\resources\app\node_modules\@vscode\codicons\_iconCloud\keywords.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Programs\Microsoft VS Code\0958016b2a\resources\app\node_modules\@vscode\codicons\_iconCloud\metaphors.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Pub\Cache\hosted\pub.dev\archive-3.6.1\test\tests\res\test.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Pub\Cache\hosted\pub.dev\archive-3.6.1\test\tests\res\test2.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Pub\Cache\hosted\pub.dev\archive-3.6.1\test\tests\res\test_100k_files.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Pub\Cache\hosted\pub.dev\archive-3.6.1\test\tests\res\zip\aes256.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Pub\Cache\hosted\pub.dev\archive-3.6.1\test\tests\res\zip\android-javadoc.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Pub\Cache\hosted\pub.dev\archive-3.6.1\test\tests\res\zip\crc32-not-streamed.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Pub\Cache\hosted\pub.dev\archive-3.6.1\test\tests\res\zip\dd.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Pub\Cache\hosted\pub.dev\archive-3.6.1\test\tests\res\zip\go-no-datadesc-sig.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Pub\Cache\hosted\pub.dev\archive-3.6.1\test\tests\res\zip\go-with-datadesc-sig.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Pub\Cache\hosted\pub.dev\archive-3.6.1\test\tests\res\zip\password_zipcrypto.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Pub\Cache\hosted\pub.dev\archive-3.6.1\test\tests\res\zip\readme.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Pub\Cache\hosted\pub.dev\archive-3.6.1\test\tests\res\zip\symlink.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Pub\Cache\hosted\pub.dev\archive-3.6.1\test\tests\res\zip\test-trailing-junk.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Pub\Cache\hosted\pub.dev\archive-3.6.1\test\tests\res\zip\test.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Pub\Cache\hosted\pub.dev\archive-3.6.1\test\tests\res\zip\unix.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Pub\Cache\hosted\pub.dev\archive-3.6.1\test\tests\res\zip\utf.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Pub\Cache\hosted\pub.dev\archive-3.6.1\test\tests\res\zip\winxp.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Pub\Cache\hosted\pub.dev\archive-3.6.1\test\tests\res\zip\zip64.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Pub\Cache\hosted\pub.dev\archive-3.6.1\test\tests\res\zip\zip64_archive.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Pub\Cache\hosted\pub.dev\archive-3.6.1\test\tests\res\zip\zipCrypto.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Pub\Cache\hosted\pub.dev\archive-3.6.1\test\tests\res\zip\zip_bzip2.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Pub\Cache\hosted\pub.dev\archive-3.6.1\web\res\readme.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Pub\Cache\hosted\pub.dev\term_glyph-1.2.2\data.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Publishers\8wekyb3d8bbwe\MicrosoftStore\InstalledApps.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\puccinialin\puccinialin\Cache\cargo\registry\src\index.crates.io-1949cf8c6b5b557f\regex-1.10.2\record\compile-test\2023-04-19_1.7.3.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\puccinialin\puccinialin\Cache\cargo\registry\src\index.crates.io-1949cf8c6b5b557f\regex-1.10.2\record\compile-test\2023-04-20_master.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\puccinialin\puccinialin\Cache\cargo\registry\src\index.crates.io-1949cf8c6b5b557f\regex-1.10.2\record\compile-test\2023-07-05.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Temp\asbspada\Microsoft.Net.10.0.Runtime.8078B0957D42F8A721EA\aspnetcore-runtime-x64.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Temp\asbspada\Microsoft.Net.10.0.WindowsDesktop.Runtime.1DD3F82C6D8DF6F5946B\windowsdesktop-runtime-x64.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Temp\asbspada\Microsoft.Net.8.0.Runtime.23919300CE920BB79C71\aspnetcore-runtime-x64.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Temp\asbspada\Microsoft.Net.8.0.WindowsDesktop.Runtime.4CCDF70FA2266E825A4F\windowsdesktop-runtime-x64.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Temp\bxdju1ev\Microsoft.Net.10.0.Runtime.8DF44658BAAA7067F9DD\aspnetcore-runtime-x64.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Temp\bxdju1ev\Microsoft.Net.10.0.WindowsDesktop.Runtime.F38A327873484BA37193\windowsdesktop-runtime-x64.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Temp\bxdju1ev\Microsoft.Net.8.0.Runtime.88872166FC3D2B8F17E2\aspnetcore-runtime-x64.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Temp\bxdju1ev\Microsoft.Net.8.0.WindowsDesktop.Runtime.DCBA197A5C6F048206CC\windowsdesktop-runtime-x64.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Temp\playwright-download-nJZJfn\playwright-download-chromium-win64-1234.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Temp\playwright-download-sXQM6V\playwright-download-chromium-win64-1234.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Local\Unity\Caches\CurlRequestCache.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\LocalLow\Unity\CoreBusinessMetrics.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\Antigravity\User\History\-1cb20dc9\hbvl.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\Antigravity\User\History\1e563dcc\fV0y.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\Antigravity\User\History\1e563dcc\tBRj.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\Antigravity\User\History\54e9e531\K8qA.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\Antigravity\User\History\54e9e531\tKfC.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\Docker\cagent\session.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\Google\AndroidStudio2025.3.4\app-internal-state.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\Google\AndroidStudio2025.3.4\updatedBrokenPlugins.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\h8n_360ts\WebCache\SeCache\first_party_sets.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\h8n_360ts\WebCache\SeCache\Default\heavy_ad_intervention_opt_out.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\h8n_360ts\WebCache\SeCache\Default\HisDailyBackup\History_2026_07_05.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\h8n_360ts\WebCache\SeCache\Default\HisDailyBackup\History_2026_07_06.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\office6\cache\spellcache\spellcache.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\office6\newdocs\localstorage.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\office6\onlinegradient\localstorage.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\office6\photo\font\font.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\office6\photokitbridge\photobridge\imageeffect.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\office6\skincenter\localstorage.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\office6\startpage\documents\WPS Docs Quick Start Guide.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\office6\startpage\documents\WPS PDF Quick Start Guide.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\office6\startpage\documents\WPS Sheets Quick Start Guide.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\office6\templates\wps\en_US\032-HARIHARAN A.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\office6\tiance\tiance.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\wps\dcsdk\cache.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\wps\dcsdk\firebase_cache.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\wpsphoto+\kdcInfo\cache.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\wpsphoto+\kdcInfo\firebase_cache.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\wps_intl\addons\data\win-x64\cef_high\1\cache\databases\Databases.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\wps_intl\addons\data\win-x64\cef_high\1\globalcache\databases\Databases.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\wps_intl\addons\data\win-x64\cef_high\1\kwebhelpqa\databases\Databases.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\wps_intl\addons\data\win-x64\cef_high\1\kwpsaidocschatpanel\databases\Databases.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\wps_intl\addons\data\win-x64\cef_high\1\promebrowser\cookie\databases\Databases.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\wps_intl\addons\pool\win-x64\kcmddb_3.1.0.7399\db\personal_cn\et.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\wps_intl\addons\pool\win-x64\kcmddb_3.1.0.7399\db\personal_cn\pdf.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\wps_intl\addons\pool\win-x64\kcmddb_3.1.0.7399\db\personal_cn\wpp.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\wps_intl\addons\pool\win-x64\kcmddb_3.1.0.7399\db\personal_cn\wps.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\wps_intl\addons\pool\win-x64\kcmddb_3.1.0.7602\db\personal_cn\et.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\wps_intl\addons\pool\win-x64\kcmddb_3.1.0.7602\db\personal_cn\pdf.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\wps_intl\addons\pool\win-x64\kcmddb_3.1.0.7602\db\personal_cn\wpp.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\wps_intl\addons\pool\win-x64\kcmddb_3.1.0.7602\db\personal_cn\wps.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\wps_intl\addons\pool\win-x64\kstartguide_3.1.0.166\mui\default\WPS Docs Quick Start Guide.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\wps_intl\addons\pool\win-x64\kstartguide_3.1.0.166\mui\default\WPS PDF Quick Start Guide.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\wps_intl\addons\pool\win-x64\kstartguide_3.1.0.166\mui\default\WPS Sheets Quick Start Guide.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\wps_intl\addons\pool\win-x64\kstartguide_3.1.0.194\mui\default\WPS Docs Quick Start Guide.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\wps_intl\addons\pool\win-x64\kstartguide_3.1.0.194\mui\default\WPS PDF Quick Start Guide.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\wps_intl\addons\pool\win-x64\kstartguide_3.1.0.194\mui\default\WPS Sheets Quick Start Guide.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\wps_intl\addons\pool\win-x64\kwppbeautify_3.1.0.2119\res\cardgroup\cardIcons.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\wps_intl\addons\pool\win-x64\kwppbeautify_3.1.0.2119\res\cardgroup\convert\convertInfo.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\wps_intl\addons\pool\win-x64\kwppbeautify_3.1.0.2119\res\cardgroup\styles\assets_lined.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\wps_intl\addons\pool\win-x64\kwppbeautify_3.1.0.2119\res\cardgroup\styles\assets_plain.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\wps_intl\addons\pool\win-x64\kwppbeautify_3.1.0.2119\res\cardgroup\styles\assets_rounded.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\wps_intl\addons\pool\win-x64\kwppbeautify_3.1.0.2119\res\cardgroup\styles\assets_shadowed.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\wps_intl\addons\pool\win-x64\kwppbeautify_3.1.0.2119\res\cardgroup\styles\assets_square.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\wps_intl\addons\pool\win-x64\kwppbeautify_3.1.0.2119\res\cardgroup\styles\assets_standard.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\wps_intl\addons\pool\win-x64\kwppbeautify_3.1.0.2119\res\figmares\base.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\wps_intl\addons\pool\win-x64\kwppcopilot_3.1.0.3008\res\newlayoutres\layoutbase.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\kingsoft\wps_intl\addons\pool\win-x64\kwppcopilot_3.1.0.3130\res\newlayoutres\layoutbase.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\ollama app.exe\EBWebView\Default\declarative_performance_observer.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\ollama app.exe\EBWebView\Default\heavy_ad_intervention_opt_out.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\ollama app.exe\EBWebView\Default\EdgeJourneys\EdgeJourneys.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\ollama app.exe\EBWebView\GPUPersistentCache\DawnGraphiteCache\P27VQJWCZTEA4KHQSE2IQBIIQMS5IZPD\cache.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\Opera Software\Opera Stable\themes_backup\default_dark_theme.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\Opera Software\Opera Stable\themes_backup\default_theme.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\Postman\dataset-engine\data\meta.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\UnityHub\downloads\android-ndk-r27c-windows.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10-windows-x86_64-none\Lib\site-packages\numpy\random\tests\data\mt19937-testset-1.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10-windows-x86_64-none\Lib\site-packages\numpy\random\tests\data\mt19937-testset-2.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10-windows-x86_64-none\Lib\site-packages\numpy\random\tests\data\pcg64-testset-1.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10-windows-x86_64-none\Lib\site-packages\numpy\random\tests\data\pcg64-testset-2.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10-windows-x86_64-none\Lib\site-packages\numpy\random\tests\data\pcg64dxsm-testset-1.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10-windows-x86_64-none\Lib\site-packages\numpy\random\tests\data\pcg64dxsm-testset-2.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10-windows-x86_64-none\Lib\site-packages\numpy\random\tests\data\philox-testset-1.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10-windows-x86_64-none\Lib\site-packages\numpy\random\tests\data\philox-testset-2.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10-windows-x86_64-none\Lib\site-packages\numpy\random\tests\data\sfc64-testset-1.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10-windows-x86_64-none\Lib\site-packages\numpy\random\tests\data\sfc64-testset-2.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10-windows-x86_64-none\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-arccos.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10-windows-x86_64-none\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-arccosh.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10-windows-x86_64-none\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-arcsin.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10-windows-x86_64-none\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-arcsinh.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10-windows-x86_64-none\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-arctan.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10-windows-x86_64-none\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-arctanh.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10-windows-x86_64-none\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-cbrt.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10-windows-x86_64-none\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-cos.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10-windows-x86_64-none\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-cosh.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10-windows-x86_64-none\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-exp.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10-windows-x86_64-none\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-exp2.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10-windows-x86_64-none\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-expm1.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10-windows-x86_64-none\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-log.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10-windows-x86_64-none\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-log10.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10-windows-x86_64-none\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-log1p.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10-windows-x86_64-none\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-log2.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10-windows-x86_64-none\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-sin.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10-windows-x86_64-none\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-sinh.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10-windows-x86_64-none\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-tan.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10-windows-x86_64-none\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-tanh.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10-windows-x86_64-none\Lib\site-packages\pkg_resources\tests\data\my-test-package-zip\my-test-package.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10-windows-x86_64-none\Lib\site-packages\sklearn\datasets\data\breast_cancer.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10-windows-x86_64-none\Lib\site-packages\sklearn\datasets\data\iris.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10-windows-x86_64-none\Lib\site-packages\sklearn\datasets\data\linnerud_exercise.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10-windows-x86_64-none\Lib\site-packages\sklearn\datasets\data\linnerud_physiological.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10-windows-x86_64-none\Lib\site-packages\sklearn\datasets\data\wine_data.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10.20-windows-x86_64-none\Lib\site-packages\numpy\random\tests\data\mt19937-testset-1.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10.20-windows-x86_64-none\Lib\site-packages\numpy\random\tests\data\mt19937-testset-2.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10.20-windows-x86_64-none\Lib\site-packages\numpy\random\tests\data\pcg64-testset-1.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10.20-windows-x86_64-none\Lib\site-packages\numpy\random\tests\data\pcg64-testset-2.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10.20-windows-x86_64-none\Lib\site-packages\numpy\random\tests\data\pcg64dxsm-testset-1.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10.20-windows-x86_64-none\Lib\site-packages\numpy\random\tests\data\pcg64dxsm-testset-2.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10.20-windows-x86_64-none\Lib\site-packages\numpy\random\tests\data\philox-testset-1.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10.20-windows-x86_64-none\Lib\site-packages\numpy\random\tests\data\philox-testset-2.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10.20-windows-x86_64-none\Lib\site-packages\numpy\random\tests\data\sfc64-testset-1.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10.20-windows-x86_64-none\Lib\site-packages\numpy\random\tests\data\sfc64-testset-2.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10.20-windows-x86_64-none\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-arccos.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10.20-windows-x86_64-none\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-arccosh.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10.20-windows-x86_64-none\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-arcsin.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10.20-windows-x86_64-none\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-arcsinh.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10.20-windows-x86_64-none\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-arctan.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10.20-windows-x86_64-none\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-arctanh.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10.20-windows-x86_64-none\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-cbrt.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10.20-windows-x86_64-none\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-cos.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10.20-windows-x86_64-none\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-cosh.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10.20-windows-x86_64-none\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-exp.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10.20-windows-x86_64-none\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-exp2.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10.20-windows-x86_64-none\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-expm1.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10.20-windows-x86_64-none\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-log.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10.20-windows-x86_64-none\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-log10.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10.20-windows-x86_64-none\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-log1p.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10.20-windows-x86_64-none\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-log2.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10.20-windows-x86_64-none\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-sin.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10.20-windows-x86_64-none\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-sinh.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10.20-windows-x86_64-none\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-tan.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10.20-windows-x86_64-none\Lib\site-packages\numpy\_core\tests\data\umath-validation-set-tanh.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10.20-windows-x86_64-none\Lib\site-packages\pkg_resources\tests\data\my-test-package-zip\my-test-package.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10.20-windows-x86_64-none\Lib\site-packages\sklearn\datasets\data\breast_cancer.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10.20-windows-x86_64-none\Lib\site-packages\sklearn\datasets\data\iris.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10.20-windows-x86_64-none\Lib\site-packages\sklearn\datasets\data\linnerud_exercise.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10.20-windows-x86_64-none\Lib\site-packages\sklearn\datasets\data\linnerud_physiological.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\AppData\Roaming\uv\python\cpython-3.10.20-windows-x86_64-none\Lib\site-packages\sklearn\datasets\data\wine_data.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\008-ARAVIND J PRACTICE.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\032 - HARIHARAN A TryHackMe.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\032 - HARIHARAN A TryHackMe.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\032 - HARIHARAN A(1).pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\032-exp 01.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\032-HARIHARAN A (1).pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\032-hariharan a (2).pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\032-HARIHARAN A .pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\032-HARIHARAN A CLOUD lab host.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\032-HARIHARAN A CLOUD w2 nat-bridge.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\032-HARIHARAN A EX2.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\032-HARIHARAN A EX3.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\032-Hariharan A EX4 (1).pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\032-Hariharan A EX4.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\032-Hariharan A EX4.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\032-HARIHARAN A _Game.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\032-Hariharan A.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\032-HARIHRAN A SAKURA .pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\040-KARANJITH RAVINDAR WEB PICKLERICK.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\042- exp 5 cloud.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\1.2.2 source code.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\2024-2028-Cyber-Security.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\23CY504_CS_Assignment+Questions.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\38C3_-_Weve_not_been_trained_for_this__life_after_the__l2nzRjV.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\A Common-Sense Guide to Data Structures and Algorithms - Level Up Your Core Programming Skills.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\AADAR.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Advanced_Web_Exploitation_Report.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Advanced_Web_Exploitation_Report.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\cc exp 3 (1).docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\cc exp 3 (1).pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Cloud.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\cloudsim3.0.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Component+1++-+Unique+Assignment.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\dd (2).csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\dd.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\ddec.ramaipur.kanpur-partial.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\ddec.ramaipur.kanpur-partial.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Discrete Mathematicss-Veerarajan.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Doc4.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\EAadhaar_0644600120219220260202153422_03072026224322.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\ex4 practice.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\EXP  NO4 PRACTICE (1).docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\EXP  NO4 PRACTICE.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\EXP  NO4 PRACTICE.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\EXPNO4 WORKOUT.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Ex_01.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Ex_01.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Ex_02.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Ex_02.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Ex_03 (1).docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Ex_03.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Ex_03.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Ex_04.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Identify and Correct Security Misconfigurations in Web Applications.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\invoice_SIM-8U8JHZN7.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\invoice_SIM-J7BQQ50P.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\java-a-beginners-guide.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\java-the-complete-reference-8th-edition.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\LAST WARNING.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\leetcode-companywise-interview-questions-master.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\MPos-v.0.5.0-Portable.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\ngrok-v3-stable-windows-amd64.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\ns.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\ns_fail.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\ns_fail2.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\ns_name_final.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\PBA 1 Shcedule.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Pink Cherry Blossom Cute Pastel Presentation.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Polish_Newag_Train_Reverse_Engineering_Case_Study (1).docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Polish_Newag_Train_Reverse_Engineering_Case_Study.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\QUAD_CORE.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\results.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\shipshape-passing-backend-sources.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\SIH_PS_2024.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\small-boy_credentials.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\speed.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\submission (1).xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\submission.xlsx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Train_DRM_-_37C3-1 (1).pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Train_DRM_-_37C3-1.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Tryhackme.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\vault.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\WhatsApp Unknown 2026-07-20 at 5.26.19 PM.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Cricket_2007\Data\controltypes.csv topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Cricket_2007\Support\European Help Files\Cz\Thumbs.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Cricket_2007\Support\European Help Files\Da\Thumbs.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Cricket_2007\Support\European Help Files\De\Thumbs.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Cricket_2007\Support\European Help Files\Es\Thumbs.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Cricket_2007\Support\European Help Files\Fi\Thumbs.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Cricket_2007\Support\European Help Files\fr-fr\Thumbs.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Cricket_2007\Support\European Help Files\Hu\Thumbs.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Cricket_2007\Support\European Help Files\It\Thumbs.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Cricket_2007\Support\European Help Files\NL\Thumbs.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Cricket_2007\Support\European Help Files\No\Thumbs.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Cricket_2007\Support\European Help Files\Pol\Thumbs.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Cricket_2007\Support\European Help Files\pt\Thumbs.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Cricket_2007\Support\European Help Files\pt-br\Thumbs.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\pcsx2-v2.6.3-windows-x64-Qt\docs\GameIndex.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\pcsx2-v2.6.3-windows-x64-Qt\resources\patches.zip topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Telegram Desktop\022-Ganga Rukmani A EX 4.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Telegram Desktop\022-Ganga Rukmani A EX-3.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Telegram Desktop\1000088739 (3).pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Telegram Desktop\AADAR.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Telegram Desktop\abd.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Telegram Desktop\AdmitCard.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Telegram Desktop\admit_card.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Telegram Desktop\All India Institute of Medical Sciences.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Telegram Desktop\Application_226591 (2).pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Telegram Desktop\Application_226591.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Telegram Desktop\cns-1.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Telegram Desktop\CoreBTR_Obstetrics_&_Gynaecology_Part_9_Twin_Pregnancy,_RH_Isoimmunization (2).pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Telegram Desktop\CoreBTR_Obstetrics_&_Gynaecology_Part_9_Twin_Pregnancy,_RH_Isoimmunization.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Telegram Desktop\cvs-1.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Telegram Desktop\EAadhaar_0644600120219220260202153422_03072026224322.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Telegram Desktop\https__finalmdmsmch_aiimsexams_ac_in_RegistrationSlipid=uNb0B_4.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Telegram Desktop\https__mcc_admissions_nic_in_Counseling_Choice_FilledChoices_aspx.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Telegram Desktop\https__mcc_admissions_nic_in_Counseling_Choice_ReArrangeFilledChoice.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Telegram Desktop\IMG_2509.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Telegram Desktop\MBBS_1.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Telegram Desktop\MRB ASG 2023 Evening Session Questions2..pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Telegram Desktop\MRB ASG 2023 Morning Session Questions1..pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Telegram Desktop\MRBASG25017643 admit card.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Telegram Desktop\NEET PG 2025 Application.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Telegram Desktop\NEETPG CORE BTR schedule .pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Telegram Desktop\PAN Card .pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Telegram Desktop\PDFGallery_20260108_121941.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Telegram Desktop\PDFGallery_20260208_002916.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Telegram Desktop\PDFGallery_20260208_024048.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Telegram Desktop\PDFGallery_20260208_024331.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Telegram Desktop\Photo1.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Telegram Desktop\Provisional_Allotment_226591.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Telegram Desktop\revision 2.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Telegram Desktop\rs-1.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Telegram Desktop\SURGERY LAST MINUTE-updated.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Telegram Desktop\TN-620251016939_certificate.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Telegram Desktop\TN-620251016939_receipt.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Telegram Desktop\Top 10 Subject Shortcuts - NEET PG 2026.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\Downloads\Telegram Desktop\Union Public Service Commission.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\OneDrive\032-HARIHARAN A.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\OneDrive\032-Hariharan A1.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\OneDrive\6981f5334c28d_ABSTRACT_TEMPLATE.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\OneDrive\Document.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\OneDrive\Hackathon 2025 Problem Statements (1) 1.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\OneDrive\Hackathon 2025 Problem Statements (1).docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\OneDrive\MLT_EX_NO_2.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\OneDrive\MLT_EX_NO_3.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\OneDrive\MLT_EX_NO_4.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\OneDrive\Desktop\032 - HARIHARAN A TryHackMe.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\OneDrive\Desktop\032-Hariharan A EX4.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\OneDrive\Desktop\032-hariharan a.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\OneDrive\Documents\Doc1.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\OneDrive\Documents\Hma_Report.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\OneDrive\Documents\neurofed.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\WPS Cloud\WPS Cloud Files\.567416371963\batchupload.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\WPS Cloud\WPS Cloud Files\.567416371963\cache.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\WPS Cloud\WPS Cloud Files\.567416371963\cloudfile.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\WPS Cloud\WPS Cloud Files\.567416371963\docTag.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\WPS Cloud\WPS Cloud Files\.567416371963\kdocsofflinepage.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\WPS Cloud\WPS Cloud Files\.567416371963\localfileuploadrelated.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\WPS Cloud\WPS Cloud Files\.567416371963\precloudfile.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\WPS Cloud\WPS Cloud Files\.567416371963\recentfile.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\WPS Cloud\WPS Cloud Files\.567416371963\syncassistant.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\WPS Cloud\WPS Cloud Files\.567416371963\toDeleteFiles.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\WPS Cloud\WPS Cloud Files\.567416371963\transferhelper.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\WPS Cloud\WPSDrive\567416371963\WPSDrive\2.2 Semantic Networks- Frames- and Ontologies in.pptx.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\WPS Cloud\WPSDrive\567416371963\WPSDrive\2.3 Inference Mechanisms Forward Chaining-Backward Chaining.pptx.pdf topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\WPS Cloud\WPSDrive\567416371963\WPSDrive\ESE Regular ND25 23CY305 with Answer Key.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\WPS Cloud\WPSDrive\567416371963\WPSDrive\Why I Write by George Orwell.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\WPS Cloud\WPSDrive\567416371963\WPSDrive\edit-on-pc\ASHA health records.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\WPS Cloud\WPSDrive\567416371963\WPSDrive\edit-on-pc\cia 2 ai.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\kmaha\WPS Cloud\WPSDrive\567416371963\WPSDrive\edit-on-pc\From Recovery Room to Revenue Stream-1.docx topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\WsiAccount\AppData\Local\IconCache.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\WsiAccount\AppData\Local\ConnectedDevicesPlatform\L.WsiAccount\ActivitiesCache.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\WsiAccount\AppData\Local\Microsoft\Windows\Caches\cversions.1.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\WsiAccount\AppData\Local\Microsoft\Windows\Caches\cversions.3.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\WsiAccount\AppData\Local\Microsoft\Windows\Caches\{3DA71D5A-20CC-432F-A115-DFE92379E91F}.3.ver0x0000000000000001.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\WsiAccount\AppData\Local\Microsoft\Windows\Caches\{AFBF9F1A-8EE8-4C77-AF34-C647E37CA0D9}.1.ver0x0000000000000002.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\WsiAccount\AppData\Local\Microsoft\Windows\Explorer\iconcache_1280.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\WsiAccount\AppData\Local\Microsoft\Windows\Explorer\iconcache_16.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\WsiAccount\AppData\Local\Microsoft\Windows\Explorer\iconcache_1920.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\WsiAccount\AppData\Local\Microsoft\Windows\Explorer\iconcache_256.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\WsiAccount\AppData\Local\Microsoft\Windows\Explorer\iconcache_2560.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\WsiAccount\AppData\Local\Microsoft\Windows\Explorer\iconcache_32.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\WsiAccount\AppData\Local\Microsoft\Windows\Explorer\iconcache_48.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\WsiAccount\AppData\Local\Microsoft\Windows\Explorer\iconcache_768.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\WsiAccount\AppData\Local\Microsoft\Windows\Explorer\iconcache_96.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\WsiAccount\AppData\Local\Microsoft\Windows\Explorer\iconcache_custom_stream.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\WsiAccount\AppData\Local\Microsoft\Windows\Explorer\iconcache_exif.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\WsiAccount\AppData\Local\Microsoft\Windows\Explorer\iconcache_idx.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\WsiAccount\AppData\Local\Microsoft\Windows\Explorer\iconcache_sr.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\WsiAccount\AppData\Local\Microsoft\Windows\Explorer\iconcache_wide.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\WsiAccount\AppData\Local\Microsoft\Windows\Explorer\iconcache_wide_alternate.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\WsiAccount\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1280.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\WsiAccount\AppData\Local\Microsoft\Windows\Explorer\thumbcache_16.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\WsiAccount\AppData\Local\Microsoft\Windows\Explorer\thumbcache_1920.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\WsiAccount\AppData\Local\Microsoft\Windows\Explorer\thumbcache_256.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\WsiAccount\AppData\Local\Microsoft\Windows\Explorer\thumbcache_2560.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\WsiAccount\AppData\Local\Microsoft\Windows\Explorer\thumbcache_32.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\WsiAccount\AppData\Local\Microsoft\Windows\Explorer\thumbcache_48.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\WsiAccount\AppData\Local\Microsoft\Windows\Explorer\thumbcache_768.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\WsiAccount\AppData\Local\Microsoft\Windows\Explorer\thumbcache_96.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\WsiAccount\AppData\Local\Microsoft\Windows\Explorer\thumbcache_custom_stream.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\WsiAccount\AppData\Local\Microsoft\Windows\Explorer\thumbcache_exif.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\WsiAccount\AppData\Local\Microsoft\Windows\Explorer\thumbcache_idx.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\WsiAccount\AppData\Local\Microsoft\Windows\Explorer\thumbcache_sr.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\WsiAccount\AppData\Local\Microsoft\Windows\Explorer\thumbcache_wide.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\WsiAccount\AppData\Local\Microsoft\Windows\Explorer\thumbcache_wide_alternate.db topic=file-events
+[agent] 2026-08-13T23:22:37.241367+00:00  file_access TICKO target=C:\Users\WsiAccount\AppData\Local\Microsoft\Windows\Notifications\wpndatabase.db topic=file-events
+[agent] 2026-08-13T23:22:38.051073+00:00      process TICKO target=tasklist.exe topic=device-events
+[agent] 2026-08-13T23:22:38.051073+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:22:38.051073+00:00      process TICKO target=powershell.exe topic=device-events
+[agent] 2026-08-13T23:22:38.051073+00:00      process TICKO target=conhost.exe topic=device-events
+[agent] 2026-08-13T23:22:38.051073+00:00      process TICKO target=tasklist.exe topic=device-events
+[agent] 2026-08-13T23:22:38.051073+00:00      process TICKO target=conhost.exe topic=device-events
+reader   security_log: disabled  events=0 errors=0 unavailable at startup
+reader         sysmon: disabled  events=0 errors=0 unavailable at startup
+reader   file_watcher: enabled  events=820 errors=0 
+reader            usb: enabled  events=0 errors=0 
+reader        process: enabled  events=402 errors=0 
+stats: {'buffered': 0, 'sent': 1222, 'flushes': 25, 'failures': 0}

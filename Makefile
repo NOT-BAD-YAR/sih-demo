@@ -30,3 +30,9 @@ env:    ## create .env from example (no overwrite)
 
 help: ## show tasks
 	@grep -E '^[a-zA-Z_-]+:.*?## .*$$' $(MAKEFILE_LIST) | awk 'BEGIN {FS = ":.*?## "}; {printf "  %-12s %s\n", $$1, $$2}'
+
+agent-dryrun: ## windows agent: one poll cycle, print normalized events (no Kafka)
+	python -m agents.windows_agent --once --dry-run
+
+agent-run: ## windows agent: run 10s against Kafka (needs: make up)
+	python -m agents.windows_agent --seconds 10

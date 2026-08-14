@@ -1,0 +1,4 @@
+﻿=== AGENT LIVE RUN (--once, file_watcher only) ===
+reader   file_watcher: enabled  events=3 errors=0 
+stats: {'buffered': 0, 'sent': 3, 'flushes': 1, 'failures': 0}
+
